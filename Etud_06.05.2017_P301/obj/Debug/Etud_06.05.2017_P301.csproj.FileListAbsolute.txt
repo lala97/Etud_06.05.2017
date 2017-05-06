@@ -1,0 +1,6 @@
+C:\Users\Lala.M\Desktop\Etud_06.05.2017_P301\Etud_06.05.2017_P301\bin\Debug\Etud_06.05.2017_P301.exe.config
+C:\Users\Lala.M\Desktop\Etud_06.05.2017_P301\Etud_06.05.2017_P301\bin\Debug\Etud_06.05.2017_P301.exe
+C:\Users\Lala.M\Desktop\Etud_06.05.2017_P301\Etud_06.05.2017_P301\bin\Debug\Etud_06.05.2017_P301.pdb
+C:\Users\Lala.M\Desktop\Etud_06.05.2017_P301\Etud_06.05.2017_P301\obj\Debug\Etud_06.05.2017_P301.exe
+C:\Users\Lala.M\Desktop\Etud_06.05.2017_P301\Etud_06.05.2017_P301\obj\Debug\Etud_06.05.2017_P301.pdb
+C:\Users\Lala.M\Desktop\Etud_06.05.2017_P301\Etud_06.05.2017_P301\obj\Debug\Etud_06.05.2017_P301.csprojResolveAssemblyReference.cache
